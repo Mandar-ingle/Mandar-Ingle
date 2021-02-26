@@ -6,4 +6,18 @@
 ## About Me:
 I am BE Information Technology & Engineering Graduate passed out in 2020. I'm having an extensive experience in complete product development lifecycle of software application along with thorough knowledge of computer networks and DBMS.
 
-*
+Skilled in JavaSE,JSP,Servlet,JDBC,Java Web Services and basics of Spring and Hibernet along with HTML,CSS, and JavaScript.
+
+Additional skills are Data Structures and Algorithms.
+
+Possessing an ability to learn any technology quickely.
+
+Exploring Python for Data Science and Data Analytics.
+
+Core Skills: Problem Solving, Organized, Learning Attitude, Focused
+
+
+
+
+
+
