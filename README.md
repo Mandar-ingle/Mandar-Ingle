@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, こんにちわ I'm Mandar Ingle👋
 
 <!--
 **Mandar-ingle/Mandar-ingle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
