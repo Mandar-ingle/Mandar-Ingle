@@ -1,7 +1,6 @@
 ## Hi there, こんにちわ I'm Mandar Ingle👋
 
-## Objective:
-_________________________________________________________________________________________________________________________________________________
+## Objective:_________________________________________________________________________________________________________________________________________________
 ## Aim to work in a dynamic environment, to get the best out of my skills which can be productive for the company as well as me. Having expertise in complete product development lifecycle of software applications. I wish to work with a diverse team that works towards contributing to the company’s vision and goals.
 
 ## About Me:
