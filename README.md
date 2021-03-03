@@ -42,15 +42,6 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 • Hiking, exploring different cultures, Horse Riding
 
 
-
-## Connect With Me: 
-• Twitter : https://twitter.com/mandaringle18
-
-• Linkedin: https://www.linkedin.com/in/mandaringle/
-
-• Mail    : mandaringle33@gmail.com
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mandaringle18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mandaringle18" height="30" width="40" /></a>
