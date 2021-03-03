@@ -51,6 +51,14 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 • Mail    : mandaringle33@gmail.com
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mandaringle18" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mandaringle18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mandaringle/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mandaringle/" height="30" width="40" /></a>
+<a href="https://instagram.com/im_mandar_ingle_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="im_mandar_ingle_" height="30" width="40" /></a>
+</p>
+
+
 
 
 
