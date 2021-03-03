@@ -6,9 +6,7 @@ Aim to work in a dynamic environment, to get the best out of my skills which can
 ## About Me:
 • I am BE Information Technology & Engineering Graduate passed out in 2020. I'm having an extensive experience in complete product development lifecycle of software    application along with thorough knowledge of computer networks and DBMS.
 
-• Skilled in JavaSE,JSP,Servlet,JDBC,Java Web Services and basics of Spring and Hibernet along with HTML,CSS, and JavaScript.
-
-• Additional skills are Data Structures and Algorithms.
+• Love to lean japanese language and japanese culture. (N4 attempted)
 
 • Possessing an ability to learn any technology quickely.
 
@@ -29,6 +27,9 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 
 • Interested Technology : Data Science and Data Analytics
 
+• Additional skills are Data Structures and Algorithms.
+
+
 ## Research Paper: 
 • http://www.garph.org/IJRCIT_Vol5_Issue2.html
 
@@ -36,6 +37,10 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 
 ## Languages Known: 
 • English, Hindi, Marathi, Japanese(N4 attempted)
+
+## Hobbies:
+• Hiking, exploring different cultures, Horse Riding
+
 
 
 ## Connect With Me: 
