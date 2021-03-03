@@ -1,4 +1,3 @@
-![Canvas-effect_cnv 4](https://user-images.githubusercontent.com/56158145/109779371-e6a5de00-7c2b-11eb-8b4a-d76a1e38e92a.jpg)
 ## Hi, こんにちわ I'm Mandar Ingle👋
 
 ## Objective:
