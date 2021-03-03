@@ -1,6 +1,3 @@
-![photo-1488590528505-98d2b5aba04b](https://user-images.githubusercontent.com/56158145/109783827-6c2b8d00-7c30-11eb-8085-a3078416b5d6.jpg)
-
-
 ## Hi, こんにちわ I'm Mandar Ingle👋
 
 ## Objective:
