@@ -10,7 +10,7 @@ Aim to work in a dynamic environment, to get the best out of my skills which can
 
 • Possessing an ability to learn any technology quickely.
 
-• Exploring Python for Data Science and Data Analytics.
+• Exploring Python.
 
 Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 
@@ -24,8 +24,6 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 • Databases Technologies: SQL, SQL Server
 
 • Development Tools     : Visual Studio Code, Eclipse, GitHub, SpringToolSuite, Anaconda
-
-• Interested Technology : Data Science and Data Analytics
 
 • Additional skills are Data Structures and Algorithms.
 
