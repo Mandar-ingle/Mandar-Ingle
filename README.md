@@ -16,6 +16,8 @@ Aim to work in a dynamic environment, to get the best out of my skills which can
 
 Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandar-ingle&show_icons=true&locale=en&layout=compact" alt="mandar-ingle" /></p>
+
 ## Skills: 
 • Programming           : C programming,Java,Python(exploring),Object oriented programming paradigm.
 
@@ -50,10 +52,8 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 </p>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandar-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="mandar-ingle" /> </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandar-ingle&show_icons=true&locale=en&layout=compact" alt="mandar-ingle" /></p>
 
 
 
