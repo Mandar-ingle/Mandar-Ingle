@@ -1,4 +1,6 @@
 ## Hi, こんにちわ I'm Mandar Ingle👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandar-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="mandar-ingle" /> </p>
+
 
 ## Objective:
 Aim to work in a dynamic environment, to get the best out of my skills which can be productive for the company as well as me. Having expertise in complete product development lifecycle of software applications. I wish to work with a diverse team that works towards contributing to the company’s vision and goals.
