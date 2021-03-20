@@ -41,7 +41,7 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 • English, Hindi, Marathi, Japanese(N4 attempted)
 
 ## Hobbies:
-• Hiking, exploring different cultures, Horse Riding
+• Hiking, exploring different cultures, travelling, 
 
 
 <h3 align="left">Connect with me:</h3>
