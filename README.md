@@ -19,15 +19,15 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandar-ingle&show_icons=true&locale=en&layout=compact" alt="mandar-ingle" /></p>
 
 ## Skills: 
-• Programming           : C programming,Java,Python(exploring),Object oriented programming paradigm.
+• Programming           : C programming,Java,Object oriented programming paradigm.
 
-• Web Technologies      : HTML,CSS,JavaScript,Xml,Json
+• Web Technologies      : HTML,CSS,JavaScript
 
-• Java Technologies     : JavaSE,JSP,Servlet,JDBC,Java Web Services, basics of Spring and Hibernet
+• Java Technologies     : JavaSE,JDBC, basics of Spring, Hibernet, Servlet and JSP
 
-• Databases Technologies: SQL, SQL Server
+• Databases Technologies: SQL, MySQL Workbench
 
-• Development Tools     : Visual Studio Code, Eclipse, GitHub, SpringToolSuite, Anaconda
+• Development Tools     : Visual Studio Code, Eclipse, GitHub.
 
 • Additional skills are Data Structures and Algorithms.
 
@@ -41,7 +41,7 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 • English, Hindi, Marathi, Japanese(N4 attempted)
 
 ## Hobbies:
-• Hiking, exploring different cultures, travelling, 
+• Hiking, travelling and reading books
 
 
 <h3 align="left">Connect with me:</h3>
