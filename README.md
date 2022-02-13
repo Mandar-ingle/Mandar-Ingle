@@ -1,36 +1,26 @@
 ## Hi, こんにちわ I'm Mandar👋
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mandar-ingle&label=Profile%20views&color=0e75b6&style=flat" alt="mandar-ingle" /> </p>
 
-
-## Objective:
-Aim to work in a dynamic environment, to get the best out of my skills which can be productive for the company as well as me. Having expertise in complete software development lifecycle of software applications. I wish to work with a diverse team that works towards contributing to the company’s vision and goals.
-
-## About Me:
-• I am BE Information Technology & Engineering Graduate passed out in 2020. 
-
-• Love to lean japanese language and japanese culture. (N4 attempted)
-
-• Possessing an ability to learn any technology quickely.
-
-• Exploring Python.
-
-Core Skills: Problem Solving, Organized, Learning Attitude, Focused
+★ I'm Mandar, holding a degree in Bachelor of Information Technology & Engineering with well-honed 
+ technical skills in design, planning, and software development. Have the Ability to meet clients’ 
+ specific requirements and enhance the growth of the company. 
+★ I have good knowledge of Java, advanced java, C#, ASP.Net, .Net MVC, and familiarity with SQL and 
+ MySQL.
+★ Exposure to Microsoft NopCommerce framework 
+★ Experienced in developing UI using HTML, CSS, and JavaScript. and familiarity with Angular
+★ I have hands-on experience working with Eclipse, Visual Studio Code, and GitHub.
+★ I have good exposure in Microsoft Azure such as IAAS, PAAS and SAAS, and Azure Cyber Security. 
+ My other key specialties include Azure compute, storage services.
+★ Nowadays exploring cloud computing and playing with the Microsoft Azure cloud platform.
+✦ Apart from technical stuff, I'm learning the intermediate level Japanese language and culture.
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandar-ingle&show_icons=true&locale=en&layout=compact" alt="mandar-ingle" /></p>
 
-## Skills: 
-• Programming           : C programming,Java,Object oriented programming paradigm.
 
-• Web Technologies      : HTML,CSS,JavaScript
 
-• Java Technologies     : JavaSE,JDBC, basics of Spring, Hibernet, Servlet and JSP
-
-• Databases Technologies: SQL, MySQL Workbench
-
-• Development Tools     : Visual Studio Code, Eclipse, GitHub.
-
-• Additional skills are Data Structures and Algorithms.
-
+## Latest Certification
+• Microsoft Certified: Azure Developer Associate
+• Microsoft Certified: Azure Developer Administrator
 
 ## Research Paper: 
 • http://www.garph.org/IJRCIT_Vol5_Issue2.html
@@ -41,7 +31,8 @@ Core Skills: Problem Solving, Organized, Learning Attitude, Focused
 • English, Hindi, Marathi, Japanese(N4 attempted)
 
 ## Hobbies:
-• Hiking, travelling and reading books
+• Reading, Travelling, Biking & offroading, Photography
+
 
 
 <h3 align="left">Connect with me:</h3>
