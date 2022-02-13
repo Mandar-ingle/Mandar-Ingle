@@ -27,6 +27,7 @@
 
 ## Latest Certification
 • Microsoft Certified: Azure Developer Associate
+
 • Microsoft Certified: Azure Developer Administrator
 
 ## Research Paper: 
