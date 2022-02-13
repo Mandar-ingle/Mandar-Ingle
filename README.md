@@ -4,6 +4,7 @@
 ★ I'm Mandar, holding a degree in Bachelor of Information Technology & Engineering with well-honed 
  technical skills in design, planning, and software development. Have the Ability to meet clients’ 
  specific requirements and enhance the growth of the company. 
+ 
 ★ I have good knowledge of Java, advanced java, C#, ASP.Net, .Net MVC, and familiarity with SQL and 
  MySQL.
 ★ Exposure to Microsoft NopCommerce framework 
