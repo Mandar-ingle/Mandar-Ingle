@@ -17,9 +17,12 @@
 ★ I have good exposure in Microsoft Azure such as IAAS, PAAS and SAAS, and Azure Cyber Security. 
  My other key specialties include Azure compute, storage services.
  
+★ Hands On experience on Azure Compute, Storage, Cost management, API's, Postman, PowerBI
+ 
 ★ Nowadays exploring cloud computing and playing with the Microsoft Azure cloud platform.
 
 ✦ Apart from technical stuff, I'm learning the intermediate level Japanese language and culture.
+
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mandar-ingle&show_icons=true&locale=en&layout=compact" alt="mandar-ingle" /></p>
 
@@ -36,7 +39,7 @@
 • IJRCIT Journal, Vol 5, Issue 2, SR No: 9
 
 ## Languages Known: 
-• English, Hindi, Marathi, Japanese(N4 attempted)
+• English, Hindi, Marathi, Japanese(N4 attempted), Spanish(Learning)
 
 ## Hobbies:
 • Reading, Travelling, Biking & offroading, Photography
